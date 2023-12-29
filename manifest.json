@@ -1,0 +1,26 @@
+{
+  "name": "Holiday Picker!",
+  "description": "Are you ready to travel? Come and pick this random holiday generator, refine your results and choose the best option for you!",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "background": {
+    "service_worker": "popup.js",
+    "type": "module"
+  },
+
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "hello_extensions.png"
+  },
+
+  "permissions": [
+    "scripting"
+  ],
+
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
+
