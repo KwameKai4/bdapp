@@ -1,0 +1,8 @@
+
+
+THIS IS A TEMPLATE FOR A CHROME EXTENSION 
+    USING 
+
+        REACT X TYPESCRIPT
+
+made by kwame.
